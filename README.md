@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ademmanuel01
-- 👀 I’m interested in Machine Learning (Deep Learning, computer vision, Reinforcement learning and Time series modelling)
-- 🌱 I’m currently learning Artificial Neural Network and Convolution Neural Network
-- 💞️ I’m looking to collaborate on Image recognition and forecasting 
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in Machine Learning modelling (Deep Learning, computer vision, Reinforcement learning) and Time series modelling
+- 🌱 I've worked on some Artificial Neural Network projects
+- 💞️ I’m looking to collaborate on building Machine learning models, Image recognition models and time series forecasting models
 - 📫 How to reach me adekunle.salako@iubh.de
 
 <!---
